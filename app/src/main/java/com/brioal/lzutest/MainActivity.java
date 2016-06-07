@@ -57,8 +57,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     public void setViews() {
-        etName.setText("320130937631");
-        etWord.setText("142536");
+        etName.setText("...");
+        etWord.setText("...");
         btnLogo.setOnClickListener(this);
     }
 
